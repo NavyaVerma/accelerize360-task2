@@ -1,6 +1,6 @@
 # Task 1 - Electricity Bill
 
-**Problem Statement 2:**
+**Problem Statement:**
 Write a program to submit electricity bill where-
 
 Provide user to with Meter Number and Identity card input fields and a submit button. On submission validate below criteria to save the record.
